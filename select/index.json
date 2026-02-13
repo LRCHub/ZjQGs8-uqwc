@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "二十億光年の恋 - Two billion light-years of Love",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-02-13T18:02:52.560553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二十億光年の恋",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/01_二十億光年の恋_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "二十億光年の恋",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/02_二十億光年の恋_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "二十億光年の恋",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/03_二十億光年の恋_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二十億光年の恋",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_二十億光年の恋_MY_FIRST_STORY.txt"
+    }
+  ]
+}
